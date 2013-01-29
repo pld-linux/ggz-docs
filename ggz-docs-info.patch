@@ -1,0 +1,28 @@
+--- ggz-docs-0.0.14.1/games/game-development/ggz-game-development-guide.texi.orig	2008-01-05 20:02:10.000000000 +0100
++++ ggz-docs-0.0.14.1/games/game-development/ggz-game-development-guide.texi	2013-01-29 16:39:22.599743838 +0100
+@@ -17,9 +17,9 @@ games, APIs for various programming lang
+ and integrate game packages.
+ @end documentdescription
+ 
+-@dircategory GGZ Gaming Zone
++@dircategory Software development:
+ @direntry
+-* ggz-gamedev: (ggz-gamedev). The GGZ Gaming Zone Game Development Guide
++* ggz-gamedev: (ggz-gamedev).		The GGZ Gaming Zone Game Development Guide
+ @end direntry
+ 
+ @c End of header ===============================================
+--- ggz-docs-0.0.14.1/server/hosting/ggz-hosting-guide.texi.orig	2008-01-05 20:02:14.000000000 +0100
++++ ggz-docs-0.0.14.1/server/hosting/ggz-hosting-guide.texi	2013-01-29 16:42:16.426406883 +0100
+@@ -17,9 +17,9 @@ described in detail. Aspects of operatio
+ gaming portals using GGZ Community are covered as well.
+ @end documentdescription
+ 
+-@dircategory GGZ Gaming Zone
++@dircategory Software development:
+ @direntry
+-* ggz-hosting: (ggz-hosting). The GGZ Gaming Zone Hosting Guide
++* ggz-hosting: (ggz-hosting).		The GGZ Gaming Zone Hosting Guide
+ @end direntry
+ 
+ @c End of header ===============================================
